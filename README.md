@@ -1,6 +1,6 @@
 # Breast_cancer_prediction
 
-Sure, let's summarize what you've done using the STAR methodology:
+
 
 **S - Situation:**
 You have worked on building and training a neural network model for binary classification using the breast cancer dataset from sklearn. The goal was to classify whether a tumor is malignant (1) or benign (0) based on features extracted from diagnostic images.
